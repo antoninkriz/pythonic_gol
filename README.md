@@ -1,6 +1,6 @@
 # Pythonic Game Of Life
 
-An attempt at a very "pythonic" Game Of Life implementation.
+An attempt at a very "pythonic" [Game Of Life](https://en.wikipedia.org/wiki/Conway's_Game_of_Life) implementation.
 
 ## Lines of code
 
